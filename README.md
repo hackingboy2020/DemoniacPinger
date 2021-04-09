@@ -11,6 +11,8 @@
 
 - cd DemoniacPinger
 
+- chmod +x *
+
 - bash demoniacpinger.sh
 
 ### Espero te haya gustado ;)
